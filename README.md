@@ -24,26 +24,80 @@ AI 기반 시안(concept draft)을 생성하고,
 
 ---
 
-## 🔥 핵심 파이프라인
+## ✨ 핵심 파이프라인 2026
 
+> **Agentic AI · Spatial Computing · Realtime Generative System · Multi‑sensory Experience**를 하나의 감각적 제작 흐름으로 연결합니다.
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="16%">
+      <b>01</b><br/>
+      <sub>✧ SIGNAL</sub><br/>
+      <b>감각 수집</b><br/>
+      <sub>트렌드 · 공간 · 관객 데이터</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>02</b><br/>
+      <sub>✦ AGENTIC CONCEPT</sub><br/>
+      <b>AI 크리에이티브 디렉션</b><br/>
+      <sub>Antigravity · Hermes Agent</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>03</b><br/>
+      <sub>◈ SPATIAL SKETCH</sub><br/>
+      <b>공간 프로토타입</b><br/>
+      <sub>Blender · Houdini · Digital Twin</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>04</b><br/>
+      <sub>◆ LIVE SYSTEM</sub><br/>
+      <b>실시간 생성 엔진</b><br/>
+      <sub>TouchDesigner · Unreal · Unity</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>05</b><br/>
+      <sub>✺ IMMERSION</sub><br/>
+      <b>멀티센서리 연출</b><br/>
+      <sub>Light · Sound · Motion · XR</sub>
+    </td>
+    <td align="center" width="16%">
+      <b>06</b><br/>
+      <sub>✹ LIVING ARTWORK</sub><br/>
+      <b>진화하는 작품</b><br/>
+      <sub>관객 반응 기반 재생성</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A["✧ SIGNAL<br/>감각 수집"] --> B["✦ AGENTIC CONCEPT<br/>AI 크리에이티브 디렉션"]
+    B --> C["◈ SPATIAL SKETCH<br/>공간 프로토타입"]
+    C --> D["◆ LIVE SYSTEM<br/>실시간 생성 엔진"]
+    D --> E["✺ IMMERSION<br/>멀티센서리 연출"]
+    E --> F["✹ LIVING ARTWORK<br/>진화하는 작품"]
+    F -. audience feedback .-> A
+
+    B --> B1["Google Antigravity"]
+    B --> B2["Hermes Agent"]
+    C --> C1["Blender · Houdini"]
+    D --> D1["TouchDesigner · Unreal · Unity"]
+    E --> E1["Projection · LED · Spatial Audio · XR"]
 ```
-💡 아이디어
-    │
-    ▼
-🤖 AI 시안 생성 (Google Antigravity + Hermes Agent)
-    │
-    ▼
-🎨 3D 조형 & 시각화
-    │
-    ├── 🟠 Blender        → 3D 모델링 / 애니메이션
-    ├── 🔵 TouchDesigner  → 실시간 비주얼 & 인터랙션
-    ├── 🟡 Houdini        → FX / 프로시저럴 아트
-    ├── 🔴 Unreal Engine  → 실시간 렌더링 / 메타버스
-    └── 🟢 Unity          → 인터랙티브 설치 / XR
-    │
-    ▼
-🎭 미디어 아트 작품 완성
-```
+
+### 🧬 제작 원칙
+
+| 키워드 | 방향 |
+|---|---|
+| **Agentic Workflow** | AI가 단순 생성기를 넘어 리서치·무드보드·프롬프트·반복 개선을 보조 |
+| **Spatial-first** | 화면이 아닌 공간, 관객 동선, 빛의 밀도부터 설계 |
+| **Realtime Generative** | 고정 영상이 아니라 센서·음성·움직임에 반응하는 라이브 비주얼 구축 |
+| **Multi-sensory** | 영상 + 사운드 + 조명 + 모션 + XR을 하나의 감각 레이어로 통합 |
+| **Living Archive** | 전시 이후에도 데이터와 관객 반응을 축적해 다음 작품으로 진화 |
 
 ---
 
