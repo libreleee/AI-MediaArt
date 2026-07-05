@@ -3,6 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20MediaArt&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%C3%97%20Digital%20Art%20%C3%97%20Interactive%20Experience&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
+<img width="1024" height="1024" alt="houdini_chrome_proposal_20260626" src="https://github.com/user-attachments/assets/48d40c81-752a-46a0-b587-a20452962bf7" />
+
 ---
 
 # ✦ AI × Media Art ✦
