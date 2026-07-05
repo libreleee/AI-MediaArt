@@ -1,71 +1,145 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20MediaArt&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%C3%97%20Digital%20Art%20%C3%97%20Interactive%20Experience&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05000f,22:19003d,45:531cb3,68:00d4ff,100:ff2bd6&height=240&section=header&text=AI%20MediaArt&fontSize=78&fontColor=ffffff&fontAlignY=34&desc=Agentic%20AI%20%C3%97%20Spatial%20Computing%20%C3%97%20Realtime%20Generative%20Cinema&descAlignY=58&descSize=19&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=600&color=8BE9FD&center=true&vCenter=true&width=1000&lines=Living+Artwork+for+the+Post-Screen+Era;AI+does+not+replace+the+artist+%E2%80%94+it+becomes+the+studio+weather;Realtime+light+%C2%B7+sound+%C2%B7+space+%C2%B7+motion+%C2%B7+emotion" alt="typing intro" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/ART-Digital%20Ritual-ff2bd6?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20Creation-8be9fd?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/SPACE-Immersive%20XR-bd93f9?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/ENGINE-Realtime%20Generative-50fa7b?style=for-the-badge&labelColor=090014" />
+</p>
+
+<br/>
 
 <img width="1024" height="1024" alt="houdini_chrome_proposal_20260626" src="https://github.com/user-attachments/assets/48d40c81-752a-46a0-b587-a20452962bf7" />
 
----
+<br/>
+<br/>
 
-# ✦ AI × Media Art ✦
+# ✦ AI × MEDIA ART ✦
 
 ### 인공지능을 활용한 미디어 아트 제작 프로젝트
 
-> *"AI가 상상하고, 아티스트가 숨결을 불어넣다"*
+> **“AI가 상상하고, 아티스트가 숨결을 불어넣고, 공간은 관객의 움직임으로 다시 태어난다.”**
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>✧ GENERATIVE</b><br/>
+      <sub>생성형 이미지 · 영상 · 사운드 · 3D 컨셉</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>◈ SPATIAL</b><br/>
+      <sub>전시장 · 프로젝션 · XR · 디지털 트윈</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>✺ LIVING</b><br/>
+      <sub>관객 반응에 따라 진화하는 실시간 작품</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌌 프로젝트 소개
+## 🌌 Project Manifesto
 
-**AI-MediaArt**는 Google **Antigravity** 와 **Hermes Agent** 를 활용하여
-AI 기반 시안(concept draft)을 생성하고,
-다양한 3D · 실시간 렌더링 도구들과 결합해
-**몰입형 미디어 아트 작품**을 제작하는 프로젝트입니다.
+**AI-MediaArt**는 Google **Antigravity**와 **Hermes Agent**를 창작 파트너로 삼아,  
+아이디어의 작은 신호를 **공간적 경험, 실시간 비주얼, 멀티센서리 설치, 진화형 아카이브**로 확장하는 예술 프로젝트입니다.
+
+이 레포는 단순한 제작 기록이 아니라, 하나의 **디지털 아틀리에**입니다.  
+프롬프트는 스케치가 되고, 에이전트는 조감독이 되며, 렌더 엔진은 무대가 되고, 관객은 작품의 마지막 알고리즘이 됩니다.
+
+<br/>
+
+<img src="https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=1200&h=520&fit=crop&auto=format&q=90" width="92%" alt="abstract generative light field" />
+
+<br/>
 
 ---
 
-## ✨ 핵심 파이프라인 2026
+## ✨ 2026 SOTA Creative Direction
 
-> **Agentic AI · Spatial Computing · Realtime Generative System · Multi‑sensory Experience**를 하나의 감각적 제작 흐름으로 연결합니다.
+<table align="center">
+  <tr>
+    <th>Signal</th>
+    <th>Creative Meaning</th>
+    <th>How this repo uses it</th>
+  </tr>
+  <tr>
+    <td><b>Agentic AI</b></td>
+    <td>AI를 단순 생성기가 아니라 리서치·기획·반복 개선을 돕는 창작 에이전트로 사용</td>
+    <td>Antigravity + Hermes Agent 기반 컨셉 디렉션</td>
+  </tr>
+  <tr>
+    <td><b>Multimodal Creation</b></td>
+    <td>텍스트, 이미지, 3D, 사운드, 센서 데이터를 하나의 창작 언어로 연결</td>
+    <td>프롬프트 → 무드보드 → 공간 → 사운드 → 인터랙션</td>
+  </tr>
+  <tr>
+    <td><b>Spatial Computing</b></td>
+    <td>평면 스크린 중심이 아닌 공간, 동선, 시야, 빛의 밀도로 설계</td>
+    <td>XR · 프로젝션 맵핑 · 디지털 트윈 기반 설치</td>
+  </tr>
+  <tr>
+    <td><b>Realtime Generative</b></td>
+    <td>완성된 영상 재생이 아니라 관객과 환경에 반응하는 라이브 시스템</td>
+    <td>TouchDesigner · Unreal · Unity · Shader 파이프라인</td>
+  </tr>
+  <tr>
+    <td><b>Living Archive</b></td>
+    <td>작품이 끝나지 않고 전시 데이터와 관객 반응을 다음 버전으로 이어감</td>
+    <td>작품 로그, 프롬프트, 센서 값, 렌더 결과 축적</td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Core Pipeline — From Signal to Living Artwork
 
 <br/>
 
 <table align="center">
   <tr>
     <td align="center" width="16%">
-      <b>01</b><br/>
-      <sub>✧ SIGNAL</sub><br/>
-      <b>감각 수집</b><br/>
-      <sub>트렌드 · 공간 · 관객 데이터</sub>
+      <h3>01</h3>
+      <b>✧ SIGNAL</b><br/>
+      <sub>감각 수집</sub><br/><br/>
+      <sub>트렌드 · 공간 · 관객 · 사운드 · 기억</sub>
     </td>
     <td align="center" width="16%">
-      <b>02</b><br/>
-      <sub>✦ AGENTIC CONCEPT</sub><br/>
-      <b>AI 크리에이티브 디렉션</b><br/>
-      <sub>Antigravity · Hermes Agent</sub>
+      <h3>02</h3>
+      <b>✦ AGENTIC CONCEPT</b><br/>
+      <sub>AI 크리에이티브 디렉션</sub><br/><br/>
+      <sub>Antigravity · Hermes Agent · Prompt</sub>
     </td>
     <td align="center" width="16%">
-      <b>03</b><br/>
-      <sub>◈ SPATIAL SKETCH</sub><br/>
-      <b>공간 프로토타입</b><br/>
+      <h3>03</h3>
+      <b>◈ SPATIAL SKETCH</b><br/>
+      <sub>공간 프로토타입</sub><br/><br/>
       <sub>Blender · Houdini · Digital Twin</sub>
     </td>
     <td align="center" width="16%">
-      <b>04</b><br/>
-      <sub>◆ LIVE SYSTEM</sub><br/>
-      <b>실시간 생성 엔진</b><br/>
+      <h3>04</h3>
+      <b>◆ LIVE SYSTEM</b><br/>
+      <sub>실시간 생성 엔진</sub><br/><br/>
       <sub>TouchDesigner · Unreal · Unity</sub>
     </td>
     <td align="center" width="16%">
-      <b>05</b><br/>
-      <sub>✺ IMMERSION</sub><br/>
-      <b>멀티센서리 연출</b><br/>
+      <h3>05</h3>
+      <b>✺ IMMERSION</b><br/>
+      <sub>멀티센서리 연출</sub><br/><br/>
       <sub>Light · Sound · Motion · XR</sub>
     </td>
     <td align="center" width="16%">
-      <b>06</b><br/>
-      <sub>✹ LIVING ARTWORK</sub><br/>
-      <b>진화하는 작품</b><br/>
+      <h3>06</h3>
+      <b>✹ LIVING ARTWORK</b><br/>
+      <sub>진화하는 작품</sub><br/><br/>
       <sub>관객 반응 기반 재생성</sub>
     </td>
   </tr>
@@ -75,174 +149,273 @@ AI 기반 시안(concept draft)을 생성하고,
 
 ```mermaid
 flowchart LR
-    A["✧ SIGNAL<br/>감각 수집"] --> B["✦ AGENTIC CONCEPT<br/>AI 크리에이티브 디렉션"]
-    B --> C["◈ SPATIAL SKETCH<br/>공간 프로토타입"]
-    C --> D["◆ LIVE SYSTEM<br/>실시간 생성 엔진"]
-    D --> E["✺ IMMERSION<br/>멀티센서리 연출"]
-    E --> F["✹ LIVING ARTWORK<br/>진화하는 작품"]
-    F -. audience feedback .-> A
+    A([✧ SIGNAL<br/>감각 수집]) --> B([✦ AGENTIC CONCEPT<br/>AI 크리에이티브 디렉션])
+    B --> C([◈ SPATIAL SKETCH<br/>공간 프로토타입])
+    C --> D([◆ LIVE SYSTEM<br/>실시간 생성 엔진])
+    D --> E([✺ IMMERSION<br/>멀티센서리 연출])
+    E --> F([✹ LIVING ARTWORK<br/>진화하는 작품])
+    F -. audience data / exhibition memory .-> A
 
-    B --> B1["Google Antigravity"]
-    B --> B2["Hermes Agent"]
-    C --> C1["Blender · Houdini"]
-    D --> D1["TouchDesigner · Unreal · Unity"]
-    E --> E1["Projection · LED · Spatial Audio · XR"]
+    B --> B1[Google Antigravity]
+    B --> B2[Hermes Agent]
+    C --> C1[Blender · Houdini · Cinema 4D]
+    D --> D1[TouchDesigner · Unreal · Unity]
+    E --> E1[Projection · LED · Spatial Audio · XR]
 ```
-
-### 🧬 제작 원칙
-
-| 키워드 | 방향 |
-|---|---|
-| **Agentic Workflow** | AI가 단순 생성기를 넘어 리서치·무드보드·프롬프트·반복 개선을 보조 |
-| **Spatial-first** | 화면이 아닌 공간, 관객 동선, 빛의 밀도부터 설계 |
-| **Realtime Generative** | 고정 영상이 아니라 센서·음성·움직임에 반응하는 라이브 비주얼 구축 |
-| **Multi-sensory** | 영상 + 사운드 + 조명 + 모션 + XR을 하나의 감각 레이어로 통합 |
-| **Living Archive** | 전시 이후에도 데이터와 관객 반응을 축적해 다음 작품으로 진화 |
 
 ---
 
-## 🛠️ 사용 기술 스택
+## 🖼️ Visual World
 
 <table align="center">
   <tr>
-    <th>🤖 AI / Agent</th>
-    <th>🎨 3D / FX</th>
-    <th>⚡ 실시간 / 인터랙티브</th>
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=720&h=520&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>CHROMATIC ORGANISM</b><br/>
+      <sub>빛의 생물처럼 증식하는 생성형 표면</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=720&h=520&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>NEURAL AURA</b><br/>
+      <sub>데이터와 감정이 만든 비물질 조각</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=720&h=520&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>IMMERSIVE ROOM</b><br/>
+      <sub>공간 전체를 하나의 살아있는 캔버스로 변환</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=720&h=520&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>COSMIC INTERFACE</b><br/>
+      <sub>관객의 움직임이 별자리처럼 기록되는 인터페이스</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧬 Aesthetic System
+
+<table align="center">
+  <tr>
+    <th>Layer</th>
+    <th>Texture</th>
+    <th>Emotion</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td><b>Light</b></td>
+    <td>Neon bloom · volumetric haze · spectral gradient</td>
+    <td>몽환, 압도, 초현실</td>
+    <td>LED wall · projection · shader field</td>
+  </tr>
+  <tr>
+    <td><b>Geometry</b></td>
+    <td>Chrome fluid · procedural mesh · neural topology</td>
+    <td>미래적, 유기적, 낯선 아름다움</td>
+    <td>3D sculpture · motion graphic · XR object</td>
+  </tr>
+  <tr>
+    <td><b>Motion</b></td>
+    <td>Particle swarm · slow cinema · reactive pulse</td>
+    <td>몰입, 호흡, 긴장</td>
+    <td>Realtime visual performance</td>
+  </tr>
+  <tr>
+    <td><b>Sound</b></td>
+    <td>Spatial drone · granular voice · data sonification</td>
+    <td>의식, 기억, 의례</td>
+    <td>Spatial audio · interactive score</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Creative Technology Stack
+
+<table align="center">
+  <tr>
+    <th>🤖 AI / Agent Studio</th>
+    <th>🎛️ Generative Visual Lab</th>
+    <th>🧊 Spatial / 3D Fabrication</th>
+    <th>⚡ Realtime Engine</th>
   </tr>
   <tr>
     <td align="center">
       Google Antigravity<br/>
       Hermes Agent<br/>
       Generative AI<br/>
-      Prompt Engineering
+      Prompt Engineering<br/>
+      Multimodal Ideation
     </td>
     <td align="center">
-      🟠 Blender<br/>
-      🟡 Houdini<br/>
+      TouchDesigner<br/>
+      GLSL / HLSL Shader<br/>
+      Particle System<br/>
+      Audio Reactive Visuals<br/>
+      Data Sonification
+    </td>
+    <td align="center">
+      Blender<br/>
+      Houdini<br/>
+      Cinema 4D<br/>
       Substance Painter<br/>
-      Cinema 4D
+      Digital Twin
     </td>
     <td align="center">
-      🔵 TouchDesigner<br/>
-      🔴 Unreal Engine<br/>
-      🟢 Unity<br/>
-      GLSL / HLSL Shader
+      Unreal Engine<br/>
+      Unity<br/>
+      XR / AR / VR<br/>
+      Projection Mapping<br/>
+      LED Installation
     </td>
   </tr>
 </table>
 
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge&logoColor=white" />
+</p>
+
 ---
 
-## 🖼️ 작품 샘플 / 비주얼 레퍼런스
+## 🎞️ Exhibition Concepts
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>🌀 Generative Flow</b></sub><br/>
-      <sub>AI × Houdini 프로시저럴 아트</sub>
+      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>01 · Memory Weather</b><br/>
+      <sub>관객의 움직임이 빛의 날씨로 번역되는 설치</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>💠 Neural Geometry</b></sub><br/>
-      <sub>AI × Blender 생성 조형물</sub>
+      <img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>02 · Synthetic Garden</b><br/>
+      <sub>AI가 자라내는 디지털 정원과 유기적 사운드</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>✨ Immersive Space</b></sub><br/>
-      <sub>TouchDesigner × Unreal 몰입 공간</sub>
+      <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>03 · Cosmic Archive</b><br/>
+      <sub>관객 반응이 별자리 데이터로 축적되는 아카이브</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>🌊 Particle Ocean</b></sub><br/>
-      <sub>Houdini × AI 파티클 시스템</sub>
+      <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>04 · Data Ritual</b><br/>
+      <sub>센서 데이터가 의식처럼 반복되는 라이브 퍼포먼스</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>🌌 Cosmic Dream</b></sub><br/>
-      <sub>AI 생성 우주 미디어아트</sub>
+      <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>05 · Neon Fossil</b><br/>
+      <sub>미래의 폐허에서 발견된 빛의 화석</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=300&fit=crop" width="320" style="border-radius:12px;"/><br/>
-      <sub><b>⚡ Data Pulse</b></sub><br/>
-      <sub>실시간 인터랙티브 설치</sub>
+      <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=420&h=310&fit=crop&auto=format&q=90" width="100%" /><br/>
+      <b>06 · Dream Engine</b><br/>
+      <sub>프롬프트와 사운드가 실시간 꿈을 렌더링하는 엔진</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 제작 워크플로우
+## 🚀 Production Workflow
 
-### 1️⃣ AI 시안 생성
-
-| 단계 | 내용 |
-|------|------|
-| 🔎 프롬프트 설계 | 텍스트 기반 비주얼 컨셉 생성 |
-| 🖼️ 무드보드 | 레퍼런스 이미지 자동 구성 |
-| 📐 레이아웃 | 3D 공간 초안 도출 |
-
-### 2️⃣ 3D 제작 & FX
-
-| 툴 | 역할 |
-|----|------|
-| 🟠 Blender | 3D 모델링 / 애니메이션 |
-| 🟡 Houdini | 프로시저럴 이펙트 & 시뮬레이션 |
-
-### 3️⃣ 실시간 렌더링 & 인터랙션
-
-| 툴 | 역할 |
-|----|------|
-| 🔵 TouchDesigner | 실시간 비주얼 퍼포먼스 |
-| 🔴 Unreal Engine | 실시간 렌더링 / 메타버스 |
-| 🟢 Unity | 인터랙티브 설치 / XR |
-
-### 4️⃣ 작품 완성 & 전시
-
-| 형식 | 내용 |
-|------|------|
-| 📽️ 프로젝션 맵핑 | 공간에 미디어 투사 |
-| 💡 LED 인스톨레이션 | 하드웨어 설치 작품 |
-| 🏛️ 몰입형 전시 | 관객 인터랙션 공간 |
-
----
-
-## 📁 디렉토리 구조
-
-| 폴더 | 내용 |
-|------|------|
-| 📂 `docs/` | 프로젝트 문서 & 기획서 |
-| 📂 `assets/` | 이미지, 영상, 사운드 에셋 |
-| 📂 `blender/` | Blender 프로젝트 파일 |
-| 📂 `houdini/` | Houdini FX 파일 |
-| 📂 `touchdesigner/` | TouchDesigner 패치 |
-| 📂 `unreal/` | Unreal Engine 프로젝트 |
-| 📂 `unity/` | Unity 프로젝트 |
-| 📂 `ai-prompts/` | AI 프롬프트 & 생성 결과물 |
+<table align="center">
+  <tr>
+    <th>Phase</th>
+    <th>Action</th>
+    <th>Artifact</th>
+  </tr>
+  <tr>
+    <td><b>01 · Research</b></td>
+    <td>작품 주제, 공간, 관객, 감정 키워드 수집</td>
+    <td>Concept note · mood keywords · reference atlas</td>
+  </tr>
+  <tr>
+    <td><b>02 · AI Direction</b></td>
+    <td>Agentic AI로 시각 언어, 장면, 프롬프트 변주 생성</td>
+    <td>Prompt pack · moodboard · visual bible</td>
+  </tr>
+  <tr>
+    <td><b>03 · Spatial Prototype</b></td>
+    <td>공간 스케치, 카메라, 조명, 동선, 볼륨 구성</td>
+    <td>Blender / Houdini scene · digital twin</td>
+  </tr>
+  <tr>
+    <td><b>04 · Realtime System</b></td>
+    <td>센서, 사운드, 움직임에 반응하는 라이브 패치 구축</td>
+    <td>TouchDesigner network · shader · engine scene</td>
+  </tr>
+  <tr>
+    <td><b>05 · Installation</b></td>
+    <td>프로젝션, LED, 스피커, XR, 물리 공간 설치</td>
+    <td>Exhibition setup · calibration map</td>
+  </tr>
+  <tr>
+    <td><b>06 · Archive</b></td>
+    <td>전시 데이터와 관객 반응을 다음 버전으로 축적</td>
+    <td>Living archive · dataset · post-mortem</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 프로젝트 현황
+## 📁 Repository Atlas
 
-![GitHub repo size](https://img.shields.io/github/repo-size/libreleee/AI-MediaArt?color=blueviolet&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/libreleee/AI-MediaArt?color=ff69b4&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/libreleee/AI-MediaArt?color=gold&style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-cyan?style=for-the-badge)
-
----
-
-## 🎨 관련 키워드
-
-`#GenerativeAI` `#MediaArt` `#DigitalArt` `#Blender` `#Houdini`
-`#TouchDesigner` `#UnrealEngine` `#Unity` `#GoogleAntigravity`
-`#HermesAgent` `#InteractiveArt` `#ImmersiveArt` `#ProceduralArt`
-`#AIArt` `#XR` `#ProjectionMapping` `#3DArt` `#VisualArt`
+| Path | Meaning |
+|---|---|
+| `docs/` | 프로젝트 문서, 기획서, 전시 노트 |
+| `assets/` | 이미지, 영상, 사운드, 텍스처 에셋 |
+| `ai-prompts/` | 프롬프트, 생성 결과, 무드보드 기록 |
+| `blender/` | Blender 모델링, 애니메이션, 카메라 씬 |
+| `houdini/` | Houdini FX, 프로시저럴 시스템, 시뮬레이션 |
+| `touchdesigner/` | TouchDesigner 패치, 인터랙션 네트워크 |
+| `unreal/` | Unreal Engine 실시간 렌더링, XR 씬 |
+| `unity/` | Unity 인터랙티브 설치, XR 프로토타입 |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+## 🗺️ Roadmap
+
+- [x] 2026형 SOTA README 비주얼 시스템 구축
+- [ ] AI 프롬프트 아카이브 정리
+- [ ] TouchDesigner 실시간 비주얼 프로토타입 추가
+- [ ] Houdini 프로시저럴 조형 실험 업로드
+- [ ] Unreal / Unity 기반 XR 전시 씬 구성
+- [ ] 관객 반응 기반 Living Artwork 데이터 구조 설계
+
+---
+
+## 📊 Project Pulse
+
+<p>
+  <img src="https://img.shields.io/github/repo-size/libreleee/AI-MediaArt?color=8be9fd&style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/github/last-commit/libreleee/AI-MediaArt?color=ff2bd6&style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/github/stars/libreleee/AI-MediaArt?color=f1fa8c&style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/license-MIT-50fa7b?style=for-the-badge&labelColor=090014" />
+</p>
+
+---
+
+## 🎨 Keywords
+
+`#AgenticAI` `#GenerativeAI` `#MediaArt` `#SpatialComputing` `#RealtimeGenerative`  
+`#TouchDesigner` `#Houdini` `#Blender` `#UnrealEngine` `#Unity` `#XR`  
+`#ProjectionMapping` `#DigitalTwin` `#InteractiveInstallation` `#LivingArtwork`  
+`#AIArt` `#ProceduralArt` `#DataSonification` `#ImmersiveExperience` `#VisualRitual`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,35:531cb3,70:00d4ff,100:05000f&height=160&section=footer&animation=twinkling" width="100%"/>
 
 <sub>Made with 🤖 AI + 💜 Passion by <a href="https://github.com/libreleee">libreleee</a></sub>
 
