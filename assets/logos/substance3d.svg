@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Adobe Substance 3D">
+  <title>Adobe Substance 3D</title>
+  <rect width="24" height="24" rx="4" fill="#99E83F"/>
+  <polygon points="12,3.5 18.2,7.25 18.2,14.75 12,18.5 5.8,14.75 5.8,7.25" fill="none" stroke="white" stroke-width="1.4"/>
+  <circle cx="12"  cy="3.75"  r="1.1" fill="white"/>
+  <circle cx="18.2" cy="7.25"  r="1.1" fill="white"/>
+  <circle cx="18.2" cy="14.75" r="1.1" fill="white"/>
+  <circle cx="12"  cy="18.25" r="1.1" fill="white"/>
+  <circle cx="5.8"  cy="14.75" r="1.1" fill="white"/>
+  <circle cx="5.8"  cy="7.25"  r="1.1" fill="white"/>
+  <circle cx="12"  cy="11"   r="2"   fill="white"/>
+</svg>
