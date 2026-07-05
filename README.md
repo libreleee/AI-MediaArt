@@ -240,7 +240,7 @@ flowchart LR
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/TouchDesigner-Realtime%20Visual%20System-00AEEF?style=for-the-badge&logo=touchdesigner&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/TouchDesigner-Realtime%20Visual%20System-00AEEF?style=for-the-badge&logoColor=white&labelColor=05000f" />
   <img src="https://img.shields.io/badge/Houdini-Procedural%20FX-FF4713?style=for-the-badge&logo=houdini&logoColor=white&labelColor=05000f" />
   <img src="https://img.shields.io/badge/Blender-3D%20Creation-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=05000f" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-Realtime%20Cinema-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=05000f" />
@@ -257,6 +257,64 @@ flowchart LR
 
 <br/>
 
+<!-- ▼ Real product logos via Simple Icons CDN & local assets ▼ -->
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://derivative.ca/" title="TouchDesigner by Derivative">
+        <img src="./assets/logos/touchdesigner.svg" width="60" height="60" alt="TouchDesigner logo" />
+      </a><br/><sub><b>TouchDesigner</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.sidefx.com/" title="Houdini by SideFX">
+        <img src="https://cdn.simpleicons.org/houdini/FF4713" width="60" height="60" alt="Houdini logo" />
+      </a><br/><sub><b>Houdini</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.blender.org/" title="Blender">
+        <img src="https://cdn.simpleicons.org/blender/E87D0D" width="60" height="60" alt="Blender logo" />
+      </a><br/><sub><b>Blender</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.unrealengine.com/" title="Unreal Engine by Epic Games">
+        <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="60" height="60" alt="Unreal Engine logo" />
+      </a><br/><sub><b>Unreal Engine</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://unity.com/" title="Unity">
+        <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="60" height="60" alt="Unity logo" />
+      </a><br/><sub><b>Unity</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.maxon.net/cinema-4d" title="Cinema 4D by Maxon">
+        <img src="https://cdn.simpleicons.org/cinema4d/011A6A" width="60" height="60" alt="Cinema 4D logo" />
+      </a><br/><sub><b>Cinema 4D</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.adobe.com/products/substance3d.html" title="Adobe Substance 3D">
+        <img src="./assets/logos/substance3d.svg" width="60" height="60" alt="Substance 3D logo" />
+      </a><br/><sub><b>Substance 3D</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://deepmind.google/" title="Google Antigravity (AI Direction)">
+        <img src="https://cdn.simpleicons.org/google/4285F4" width="60" height="60" alt="Google Antigravity logo" />
+      </a><br/><sub><b>Google Antigravity</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/anthropic/191919" width="60" height="60" alt="Hermes AI Agent logo" /><br/>
+      <sub><b>Hermes Agent</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/opengl/5586A4" width="60" height="60" alt="GLSL / HLSL shader language logo" /><br/>
+      <sub><b>GLSL / HLSL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table align="center">
   <tr>
     <th width="25%">Product</th>
@@ -266,7 +324,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/TouchDesigner-00AEEF?style=for-the-badge&logo=touchdesigner&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://derivative.ca/" title="TouchDesigner by Derivative">
+        <img src="./assets/logos/touchdesigner.svg" width="56" height="56" alt="TouchDesigner logo" />
+      </a><br/>
       <b>TouchDesigner</b>
     </td>
     <td>실시간 비주얼 시스템 · 센서 인터랙션 · 오디오 리액티브 패치</td>
@@ -275,7 +335,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://www.sidefx.com/" title="Houdini by SideFX">
+        <img src="https://cdn.simpleicons.org/houdini/FF4713" width="56" height="56" alt="Houdini logo" />
+      </a><br/>
       <b>Houdini</b>
     </td>
     <td>프로시저럴 모델링 · 파티클 · 시뮬레이션 · FX</td>
@@ -284,7 +346,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://www.blender.org/" title="Blender">
+        <img src="https://cdn.simpleicons.org/blender/E87D0D" width="56" height="56" alt="Blender logo" />
+      </a><br/>
       <b>Blender</b>
     </td>
     <td>3D 모델링 · 애니메이션 · 카메라 · 레이아웃</td>
@@ -293,7 +357,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://www.unrealengine.com/" title="Unreal Engine by Epic Games">
+        <img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="56" height="56" alt="Unreal Engine logo" />
+      </a><br/>
       <b>Unreal Engine</b>
     </td>
     <td>실시간 렌더링 · 버추얼 프로덕션 · 몰입형 공간</td>
@@ -302,7 +368,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://unity.com/" title="Unity">
+        <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="56" height="56" alt="Unity logo" />
+      </a><br/>
       <b>Unity</b>
     </td>
     <td>인터랙티브 설치 · XR · 앱/프로토타입 · 관객 입력 시스템</td>
@@ -311,7 +379,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://www.maxon.net/cinema-4d" title="Cinema 4D by Maxon">
+        <img src="https://cdn.simpleicons.org/cinema4d/011A6A" width="56" height="56" alt="Cinema 4D logo" />
+      </a><br/>
       <b>Cinema 4D</b>
     </td>
     <td>모션 디자인 · 타이포그래피 · 브랜딩 비주얼</td>
@@ -320,7 +390,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Substance%203D-99E83F?style=for-the-badge&logo=adobe&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://www.adobe.com/products/substance3d.html" title="Adobe Substance 3D">
+        <img src="./assets/logos/substance3d.svg" width="56" height="56" alt="Substance 3D logo" />
+      </a><br/>
       <b>Substance 3D</b>
     </td>
     <td>재질 · 텍스처 · 표면 실험</td>
@@ -329,7 +401,9 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=05000f" /><br/>
+      <a href="https://deepmind.google/" title="Google Antigravity (AI Direction)">
+        <img src="https://cdn.simpleicons.org/google/4285F4" width="56" height="56" alt="Google Antigravity logo" />
+      </a><br/>
       <b>Google Antigravity</b>
     </td>
     <td>AI 기반 아이데이션 · 컨셉 확장 · 창작 방향 탐색</td>
@@ -338,7 +412,7 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Hermes%20Agent-FF2BD6?style=for-the-badge&logo=openai&logoColor=white&labelColor=05000f" /><br/>
+      <img src="https://cdn.simpleicons.org/anthropic/191919" width="56" height="56" alt="Hermes AI Agent logo" /><br/>
       <b>Hermes Agent</b>
     </td>
     <td>에이전트 워크플로우 · 제작 보조 · 반복 개선</td>
@@ -347,7 +421,7 @@ flowchart LR
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/GLSL%20%2F%20HLSL-8BE9FD?style=for-the-badge&logo=opengl&logoColor=white&labelColor=05000f" /><br/>
+      <img src="https://cdn.simpleicons.org/opengl/5586A4" width="56" height="56" alt="GLSL / HLSL shader language logo" /><br/>
       <b>GLSL / HLSL</b>
     </td>
     <td>커스텀 셰이더 · 실시간 픽셀/버텍스 조작</td>
