@@ -233,56 +233,128 @@ flowchart LR
 
 ---
 
-## 🛠️ Creative Technology Stack
+## 🛠️ Product Stack — Creative Engine Room
 
-<table align="center">
-  <tr>
-    <th>🤖 AI / Agent Studio</th>
-    <th>🎛️ Generative Visual Lab</th>
-    <th>🧊 Spatial / 3D Fabrication</th>
-    <th>⚡ Realtime Engine</th>
-  </tr>
-  <tr>
-    <td align="center">
-      Google Antigravity<br/>
-      Hermes Agent<br/>
-      Generative AI<br/>
-      Prompt Engineering<br/>
-      Multimodal Ideation
-    </td>
-    <td align="center">
-      TouchDesigner<br/>
-      GLSL / HLSL Shader<br/>
-      Particle System<br/>
-      Audio Reactive Visuals<br/>
-      Data Sonification
-    </td>
-    <td align="center">
-      Blender<br/>
-      Houdini<br/>
-      Cinema 4D<br/>
-      Substance Painter<br/>
-      Digital Twin
-    </td>
-    <td align="center">
-      Unreal Engine<br/>
-      Unity<br/>
-      XR / AR / VR<br/>
-      Projection Mapping<br/>
-      LED Installation
-    </td>
-  </tr>
-</table>
+> 제품 자체가 이 프로젝트의 악기입니다. **TouchDesigner, Houdini, Blender, Unreal Engine, Unity**를 전면에 세우고, AI Agent와 Adobe/Cinema 4D 계열 툴을 조합해 하나의 예술 제작 파이프라인으로 사용합니다.
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
-  <img src="https://img.shields.io/badge/TouchDesigner-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-Realtime%20Visual%20System-00AEEF?style=for-the-badge&logo=touchdesigner&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Houdini-Procedural%20FX-FF4713?style=for-the-badge&logo=houdini&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Blender-3D%20Creation-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Realtime%20Cinema-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Unity-Interactive%20XR-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=05000f" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cinema%204D-Motion%20Design-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Substance%203D-Material%20Texture-99E83F?style=for-the-badge&logo=adobe&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-AI%20Direction-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-Creative%20Agent-FF2BD6?style=for-the-badge&logo=openai&logoColor=white&labelColor=05000f" />
+  <img src="https://img.shields.io/badge/GLSL%20%2F%20HLSL-Shader%20Language-8BE9FD?style=for-the-badge&logo=opengl&logoColor=white&labelColor=05000f" />
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <th width="25%">Product</th>
+    <th width="25%">Role</th>
+    <th width="25%">Artistic Output</th>
+    <th width="25%">Why it matters</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TouchDesigner-00AEEF?style=for-the-badge&logo=touchdesigner&logoColor=white&labelColor=05000f" /><br/>
+      <b>TouchDesigner</b>
+    </td>
+    <td>실시간 비주얼 시스템 · 센서 인터랙션 · 오디오 리액티브 패치</td>
+    <td>라이브 제너러티브 영상, 인터랙티브 설치, 퍼포먼스 VJ 시스템</td>
+    <td><b>이 프로젝트의 심장.</b> 관객의 움직임과 소리를 즉시 빛으로 번역</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white&labelColor=05000f" /><br/>
+      <b>Houdini</b>
+    </td>
+    <td>프로시저럴 모델링 · 파티클 · 시뮬레이션 · FX</td>
+    <td>유기적 조형, 데이터 기반 형태, 크롬 플루이드, 파티클 오션</td>
+    <td>규칙과 우연을 결합해 예측 불가능한 조형 언어 생성</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=05000f" /><br/>
+      <b>Blender</b>
+    </td>
+    <td>3D 모델링 · 애니메이션 · 카메라 · 레이아웃</td>
+    <td>공간 스케치, 조형물, 씬 프리비즈, 렌더 콘셉트</td>
+    <td>아이디어를 가장 빠르게 볼륨과 장면으로 변환</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=05000f" /><br/>
+      <b>Unreal Engine</b>
+    </td>
+    <td>실시간 렌더링 · 버추얼 프로덕션 · 몰입형 공간</td>
+    <td>시네마틱 XR, 가상 전시장, 실시간 빛/재질 시뮬레이션</td>
+    <td>게임 엔진을 전시장의 실시간 무대 장치로 확장</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=05000f" /><br/>
+      <b>Unity</b>
+    </td>
+    <td>인터랙티브 설치 · XR · 앱/프로토타입 · 관객 입력 시스템</td>
+    <td>AR/VR 경험, 인터랙션 프로토타입, 센서 기반 작품</td>
+    <td>관객 참여형 작품을 빠르게 구현하고 배포</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white&labelColor=05000f" /><br/>
+      <b>Cinema 4D</b>
+    </td>
+    <td>모션 디자인 · 타이포그래피 · 브랜딩 비주얼</td>
+    <td>전시 타이틀, 영상 인트로, 키비주얼 모션</td>
+    <td>작품의 그래픽 아이덴티티와 쇼케이스 완성도 강화</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Substance%203D-99E83F?style=for-the-badge&logo=adobe&logoColor=white&labelColor=05000f" /><br/>
+      <b>Substance 3D</b>
+    </td>
+    <td>재질 · 텍스처 · 표면 실험</td>
+    <td>크롬, 유리, 생체 표면, 노이즈 기반 물성</td>
+    <td>디지털 조각에 촉각적 리얼리티와 낯선 물성을 부여</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=05000f" /><br/>
+      <b>Google Antigravity</b>
+    </td>
+    <td>AI 기반 아이데이션 · 컨셉 확장 · 창작 방향 탐색</td>
+    <td>컨셉 문장, 무드보드, 프롬프트 변주, 작품 시나리오</td>
+    <td>초기 아이디어를 여러 개의 예술적 가능성으로 증식</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hermes%20Agent-FF2BD6?style=for-the-badge&logo=openai&logoColor=white&labelColor=05000f" /><br/>
+      <b>Hermes Agent</b>
+    </td>
+    <td>에이전트 워크플로우 · 제작 보조 · 반복 개선</td>
+    <td>리서치 노트, 프롬프트 팩, 작업 계획, README/문서화</td>
+    <td>아티스트의 조감독처럼 제작 흐름을 정리하고 확장</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GLSL%20%2F%20HLSL-8BE9FD?style=for-the-badge&logo=opengl&logoColor=white&labelColor=05000f" /><br/>
+      <b>GLSL / HLSL</b>
+    </td>
+    <td>커스텀 셰이더 · 실시간 픽셀/버텍스 조작</td>
+    <td>빛 번짐, 노이즈 필드, 유체적 왜곡, 데이터 기반 패턴</td>
+    <td>작품의 표면과 빛을 직접 설계하는 가장 원초적인 레이어</td>
+  </tr>
+</table>
 
 ---
 
@@ -387,6 +459,7 @@ flowchart LR
 ## 🗺️ Roadmap
 
 - [x] 2026형 SOTA README 비주얼 시스템 구축
+- [x] 제품 중심 기술 스택 + 로고 배지 강화
 - [ ] AI 프롬프트 아카이브 정리
 - [ ] TouchDesigner 실시간 비주얼 프로토타입 추가
 - [ ] Houdini 프로시저럴 조형 실험 업로드
@@ -408,8 +481,8 @@ flowchart LR
 
 ## 🎨 Keywords
 
+`#TouchDesigner` `#Houdini` `#Blender` `#UnrealEngine` `#Unity` `#Cinema4D` `#Substance3D`  
 `#AgenticAI` `#GenerativeAI` `#MediaArt` `#SpatialComputing` `#RealtimeGenerative`  
-`#TouchDesigner` `#Houdini` `#Blender` `#UnrealEngine` `#Unity` `#XR`  
 `#ProjectionMapping` `#DigitalTwin` `#InteractiveInstallation` `#LivingArtwork`  
 `#AIArt` `#ProceduralArt` `#DataSonification` `#ImmersiveExperience` `#VisualRitual`
 
