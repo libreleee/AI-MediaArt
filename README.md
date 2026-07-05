@@ -1,5 +1,4 @@
-
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AI%20MediaArt&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%C3%97%20Digital%20Art%20%C3%97%20Interactive%20Experience&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
@@ -16,9 +15,9 @@
 
 ## 🌌 프로젝트 소개
 
-**AI-MediaArt**는 Google **Antigravity** 와 **Hermes Agent** 를 활용하여  
-AI 기반 시안(concept draft)을 생성하고,  
-다양한 3D · 실시간 렌더링 도구들과 결합해  
+**AI-MediaArt**는 Google **Antigravity** 와 **Hermes Agent** 를 활용하여
+AI 기반 시안(concept draft)을 생성하고,
+다양한 3D · 실시간 렌더링 도구들과 결합해
 **몰입형 미디어 아트 작품**을 제작하는 프로젝트입니다.
 
 ---
@@ -122,51 +121,50 @@ AI 기반 시안(concept draft)을 생성하고,
 ## 🚀 제작 워크플로우
 
 ### 1️⃣ AI 시안 생성
-```
-Google Antigravity + Hermes Agent
-→ 텍스트 프롬프트 기반 비주얼 컨셉 생성
-→ 레퍼런스 이미지 / 무드보드 자동 구성
-→ 3D 레이아웃 초안 도출
-```
+
+| 단계 | 내용 |
+|------|------|
+| 🔎 프롬프트 설계 | 텍스트 기반 비주얼 컨셉 생성 |
+| 🖼️ 무드보드 | 레퍼런스 이미지 자동 구성 |
+| 📐 레이아웃 | 3D 공간 초안 도출 |
 
 ### 2️⃣ 3D 제작 & FX
-```
-Blender / Houdini
-→ AI 시안을 기반으로 3D 모델링
-→ 프로시저럴 이펙트 & 시뮬레이션
-→ 애니메이션 리깅
-```
+
+| 툴 | 역할 |
+|----|------|
+| 🟠 Blender | 3D 모델링 / 애니메이션 |
+| 🟡 Houdini | 프로시저럴 이펙트 & 시뮬레이션 |
 
 ### 3️⃣ 실시간 렌더링 & 인터랙션
-```
-TouchDesigner / Unreal Engine / Unity
-→ 실시간 비주얼 퍼포먼스
-→ 센서 / 오디오 리액티브 인터랙션
-→ XR (AR/VR/MR) 구현
-```
+
+| 툴 | 역할 |
+|----|------|
+| 🔵 TouchDesigner | 실시간 비주얼 퍼포먼스 |
+| 🔴 Unreal Engine | 실시간 렌더링 / 메타버스 |
+| 🟢 Unity | 인터랙티브 설치 / XR |
 
 ### 4️⃣ 작품 완성 & 전시
-```
-→ 프로젝션 맵핑
-→ LED 인스톨레이션
-→ 몰입형 전시 공간
-```
+
+| 형식 | 내용 |
+|------|------|
+| 📽️ 프로젝션 맵핑 | 공간에 미디어 투사 |
+| 💡 LED 인스톨레이션 | 하드웨어 설치 작품 |
+| 🏛️ 몰입형 전시 | 관객 인터랙션 공간 |
 
 ---
 
 ## 📁 디렉토리 구조
 
-```
-AI-MediaArt/
-├── 📂 docs/          # 프로젝트 문서 & 기획서
-├── 📂 assets/        # 이미지, 영상, 사운드 에셋
-├── 📂 blender/       # Blender 프로젝트 파일
-├── 📂 houdini/       # Houdini FX 파일
-├── 📂 touchdesigner/ # TouchDesigner 패치
-├── 📂 unreal/        # Unreal Engine 프로젝트
-├── 📂 unity/         # Unity 프로젝트
-└── 📂 ai-prompts/    # AI 프롬프트 & 생성 결과물
-```
+| 폴더 | 내용 |
+|------|------|
+| 📂 `docs/` | 프로젝트 문서 & 기획서 |
+| 📂 `assets/` | 이미지, 영상, 사운드 에셋 |
+| 📂 `blender/` | Blender 프로젝트 파일 |
+| 📂 `houdini/` | Houdini FX 파일 |
+| 📂 `touchdesigner/` | TouchDesigner 패치 |
+| 📂 `unreal/` | Unreal Engine 프로젝트 |
+| 📂 `unity/` | Unity 프로젝트 |
+| 📂 `ai-prompts/` | AI 프롬프트 & 생성 결과물 |
 
 ---
 
@@ -181,9 +179,9 @@ AI-MediaArt/
 
 ## 🎨 관련 키워드
 
-`#GenerativeAI` `#MediaArt` `#DigitalArt` `#Blender` `#Houdini`  
-`#TouchDesigner` `#UnrealEngine` `#Unity` `#GoogleAntigravity`  
-`#HermesAgent` `#InteractiveArt` `#ImmersiveArt` `#ProceduralArt`  
+`#GenerativeAI` `#MediaArt` `#DigitalArt` `#Blender` `#Houdini`
+`#TouchDesigner` `#UnrealEngine` `#Unity` `#GoogleAntigravity`
+`#HermesAgent` `#InteractiveArt` `#ImmersiveArt` `#ProceduralArt`
 `#AIArt` `#XR` `#ProjectionMapping` `#3DArt` `#VisualArt`
 
 ---
@@ -193,4 +191,3 @@ AI-MediaArt/
 <sub>Made with 🤖 AI + 💜 Passion by <a href="https://github.com/libreleee">libreleee</a></sub>
 
 </div>
-]]>
